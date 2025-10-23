@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+button {
+    margin: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+#content {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+#name{
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+#price{
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+#description{
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+#year{
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+#submitBtn{
+    margin-top: 20px;
+}
